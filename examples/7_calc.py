@@ -1,5 +1,6 @@
 # Build a tax calculator!
 print("Tax Calculator Application")
+# input is default string type
 price = input("Enter price of purchase: ")
 tax_rate = input("Enter tax rate: ")
 
