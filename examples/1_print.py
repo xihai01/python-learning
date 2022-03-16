@@ -4,7 +4,7 @@ print("Hello World")
 # integer types
 print(15)
 
-# decimal types
+# decimal types (float)
 print(3.4567)
 
 # negative numbers

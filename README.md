@@ -4,8 +4,6 @@
 - Print to screen
 - Math operations
 - Variables
-- Working with strings
-- Working with numbers
 - Getting input from users
 - Build a tax calculator
 
